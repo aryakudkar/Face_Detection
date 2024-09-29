@@ -1,4 +1,4 @@
-# Face_Detection
+# Face_Detection 🧒👩
 
 # Overview
 * The Face Detection Project leverages advanced computer vision techniques to identify and locate human faces within images and video streams.
